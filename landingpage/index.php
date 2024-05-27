@@ -68,7 +68,7 @@ if (isset($_POST["search"])) {
         </div>
       </div>
     </div> -->
-
+    oke
     <section class="hero-element d-flex align-items-center justify-content-evenly py-5" style="margin-top: 70px">
       <div class="d-flex">
         <img src="./img/rafiki.png" alt="Hero-Image" />
